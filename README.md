@@ -40,31 +40,7 @@ All models are trained on an 80/20 stratified train/test split with `StandardSca
 
 The application exposes 23 input features, each scored on a 0-10 scale (except Age and Gender):
 
-| Feature | Range | Description |
-|---|---|---|
-| Age | 0-120 | Patient age in years |
-| Gender | Male / Female | Categorical dropdown |
-| Air Pollution | 0-10 | Exposure to air pollution |
-| Alcohol Use | 0-10 | Alcohol consumption level |
-| Dust Allergy | 0-10 | Severity of dust allergy |
-| Occupational Hazards | 0-10 | Workplace hazard exposure |
-| Genetic Risk | 0-10 | Hereditary predisposition |
-| Chronic Lung Disease | 0-10 | Severity of existing lung disease |
-| Balanced Diet | 0-10 | Diet quality (higher = healthier) |
-| Obesity | 0-10 | Obesity level |
-| Smoking | 0-10 | Smoking intensity |
-| Passive Smoker | 0-10 | Secondhand smoke exposure |
-| Chest Pain | 0-10 | Frequency and severity |
-| Coughing of Blood | 0-10 | Frequency |
-| Fatigue | 0-10 | Chronic fatigue level |
-| Weight Loss | 0-10 | Unexplained weight loss |
-| Shortness of Breath | 0-10 | Breathing difficulty |
-| Wheezing | 0-10 | Frequency |
-| Swallowing Difficulty | 0-10 | Difficulty swallowing |
-| Clubbing of Finger Nails | 0-10 | Nail deformity severity |
-| Frequent Cold | 0-10 | Frequency of common cold |
-| Dry Cough | 0-10 | Frequency |
-| Snoring | 0-10 | Frequency during sleep |
+
 
 ---
 
